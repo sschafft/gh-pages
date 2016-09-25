@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="422px" height="422px" viewBox="0 0 422 422" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" fill="#4A4A4A" x="0" y="0" width="422" height="422"></rect>
+            <text id="T" font-family="PlayfairDisplay-Bold, Playfair Display" font-size="250" font-weight="bold" letter-spacing="-3.84615397" fill="#FFFFFF">
+                <tspan x="20" y="302">T</tspan>
+            </text>
+            <text id="S" font-family="PlayfairDisplay-Bold, Playfair Display" font-size="250" font-weight="bold" letter-spacing="-3.84615421" fill="#FFFFFF">
+                <tspan x="256" y="302">S</tspan>
+            </text>
+            <text id="&amp;" font-family="PlayfairDisplay-Bold, Playfair Display" font-size="100" font-weight="bold" letter-spacing="-1.53846157" fill="#FFFFFF">
+                <tspan x="167" y="262">&amp;</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
